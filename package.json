@@ -1,0 +1,22 @@
+{
+  "name": "recipe-page",
+  "version": "1.0.0",
+  "description": "recipe-page sample",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gamajunior6/Recipe-Page.git"
+  },
+  "author": "Gamajunior",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gamajunior6/Recipe-Page/issues"
+  },
+  "homepage": "https://github.com/Gamajunior6/Recipe-Page#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.2.4"
+  }
+}
